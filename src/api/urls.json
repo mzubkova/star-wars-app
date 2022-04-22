@@ -1,0 +1,8 @@
+{
+  "base": "https://swapi.dev/api",
+  "topic": {
+    "planets": "/planets",
+    "people": "/people",
+    "films": "/films"
+  }
+}

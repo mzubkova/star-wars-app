@@ -1,0 +1,552 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Planets should render Skeleton 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="common__StBox-sc-16ufsj2-0 lcfJTu"
+      >
+        <div
+          class="common__StBoxItem-sc-16ufsj2-1 elAStK"
+        >
+          <div>
+            Name: 
+            Tatooine
+          </div>
+          <div>
+            Climate: 
+            Arid
+          </div>
+          <div>
+            Orbital Period: 
+            304
+          </div>
+          <div>
+            Population: 
+            120000
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div
+        class="common__StBox-sc-16ufsj2-0 lcfJTu"
+      >
+        <svg
+          aria-labelledby="v0huufs-aria"
+          height="500"
+          role="img"
+          viewBox="0 0 500 500"
+          width="500"
+        >
+          <title
+            id="v0huufs-aria"
+          >
+            Loading...
+          </title>
+          <rect
+            clip-path="url(#v0huufs-diff)"
+            height="100%"
+            role="presentation"
+            style="fill: url(#v0huufs-animated-diff);"
+            width="100%"
+            x="0"
+            y="0"
+          />
+          <defs>
+            <clippath
+              id="v0huufs-diff"
+            >
+              <rect
+                height="100"
+                rx="3"
+                ry="3"
+                width="500"
+                x="0"
+                y="0"
+              />
+              <rect
+                height="100"
+                rx="3"
+                ry="3"
+                width="500"
+                x="0"
+                y="115"
+              />
+              <rect
+                height="100"
+                rx="3"
+                ry="3"
+                width="500"
+                x="0"
+                y="230"
+              />
+              <rect
+                height="100"
+                rx="3"
+                ry="3"
+                width="500"
+                x="0"
+                y="345"
+              />
+            </clippath>
+            <lineargradient
+              id="v0huufs-animated-diff"
+            >
+              <stop
+                offset="0%"
+                stop-color="#2d2d2d"
+                stop-opacity="1"
+              >
+                <animate
+                  attributeName="offset"
+                  dur="3s"
+                  keyTimes="0; 0.25; 1"
+                  repeatCount="indefinite"
+                  values="-2; -2; 1"
+                />
+              </stop>
+              <stop
+                offset="50%"
+                stop-color="#717171"
+                stop-opacity="1"
+              >
+                <animate
+                  attributeName="offset"
+                  dur="3s"
+                  keyTimes="0; 0.25; 1"
+                  repeatCount="indefinite"
+                  values="-1; -1; 2"
+                />
+              </stop>
+              <stop
+                offset="100%"
+                stop-color="#2d2d2d"
+                stop-opacity="1"
+              >
+                <animate
+                  attributeName="offset"
+                  dur="3s"
+                  keyTimes="0; 0.25; 1"
+                  repeatCount="indefinite"
+                  values="0; 0; 3"
+                />
+              </stop>
+            </lineargradient>
+          </defs>
+        </svg>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="common__StBox-sc-16ufsj2-0 lcfJTu"
+    >
+      <svg
+        aria-labelledby="v0huufs-aria"
+        height="500"
+        role="img"
+        viewBox="0 0 500 500"
+        width="500"
+      >
+        <title
+          id="v0huufs-aria"
+        >
+          Loading...
+        </title>
+        <rect
+          clip-path="url(#v0huufs-diff)"
+          height="100%"
+          role="presentation"
+          style="fill: url(#v0huufs-animated-diff);"
+          width="100%"
+          x="0"
+          y="0"
+        />
+        <defs>
+          <clippath
+            id="v0huufs-diff"
+          >
+            <rect
+              height="100"
+              rx="3"
+              ry="3"
+              width="500"
+              x="0"
+              y="0"
+            />
+            <rect
+              height="100"
+              rx="3"
+              ry="3"
+              width="500"
+              x="0"
+              y="115"
+            />
+            <rect
+              height="100"
+              rx="3"
+              ry="3"
+              width="500"
+              x="0"
+              y="230"
+            />
+            <rect
+              height="100"
+              rx="3"
+              ry="3"
+              width="500"
+              x="0"
+              y="345"
+            />
+          </clippath>
+          <lineargradient
+            id="v0huufs-animated-diff"
+          >
+            <stop
+              offset="0%"
+              stop-color="#2d2d2d"
+              stop-opacity="1"
+            >
+              <animate
+                attributeName="offset"
+                dur="3s"
+                keyTimes="0; 0.25; 1"
+                repeatCount="indefinite"
+                values="-2; -2; 1"
+              />
+            </stop>
+            <stop
+              offset="50%"
+              stop-color="#717171"
+              stop-opacity="1"
+            >
+              <animate
+                attributeName="offset"
+                dur="3s"
+                keyTimes="0; 0.25; 1"
+                repeatCount="indefinite"
+                values="-1; -1; 2"
+              />
+            </stop>
+            <stop
+              offset="100%"
+              stop-color="#2d2d2d"
+              stop-opacity="1"
+            >
+              <animate
+                attributeName="offset"
+                dur="3s"
+                keyTimes="0; 0.25; 1"
+                repeatCount="indefinite"
+                values="0; 0; 3"
+              />
+            </stop>
+          </lineargradient>
+        </defs>
+      </svg>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Planets should render without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="common__StBox-sc-16ufsj2-0 lcfJTu"
+      >
+        <div
+          class="common__StBoxItem-sc-16ufsj2-1 elAStK"
+        >
+          <div>
+            Name: 
+            Tatooine
+          </div>
+          <div>
+            Climate: 
+            Arid
+          </div>
+          <div>
+            Orbital Period: 
+            304
+          </div>
+          <div>
+            Population: 
+            120000
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="common__StBox-sc-16ufsj2-0 lcfJTu"
+    >
+      <div
+        class="common__StBoxItem-sc-16ufsj2-1 elAStK"
+      >
+        <div>
+          Name: 
+          Tatooine
+        </div>
+        <div>
+          Climate: 
+          Arid
+        </div>
+        <div>
+          Orbital Period: 
+          304
+        </div>
+        <div>
+          Population: 
+          120000
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Planets should render wrapper 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="common__StBox-sc-16ufsj2-0 lcfJTu"
+      >
+        <div
+          class="common__StBoxItem-sc-16ufsj2-1 elAStK"
+        >
+          <div>
+            Name: 
+            Tatooine
+          </div>
+          <div>
+            Climate: 
+            Arid
+          </div>
+          <div>
+            Orbital Period: 
+            304
+          </div>
+          <div>
+            Population: 
+            120000
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div
+        class="common__StBox-sc-16ufsj2-0 lcfJTu"
+      >
+        <div
+          class="common__StBoxItem-sc-16ufsj2-1 elAStK"
+        >
+          <div>
+            Name: 
+            Tatooine
+          </div>
+          <div>
+            Climate: 
+            Arid
+          </div>
+          <div>
+            Orbital Period: 
+            304
+          </div>
+          <div>
+            Population: 
+            120000
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="common__StBox-sc-16ufsj2-0 lcfJTu"
+    >
+      <div
+        class="common__StBoxItem-sc-16ufsj2-1 elAStK"
+      >
+        <div>
+          Name: 
+          Tatooine
+        </div>
+        <div>
+          Climate: 
+          Arid
+        </div>
+        <div>
+          Orbital Period: 
+          304
+        </div>
+        <div>
+          Population: 
+          120000
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
